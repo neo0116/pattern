@@ -1,4 +1,4 @@
-package com.ByteDance.cglibproxy;
+package com.ByteDance.proxy.cglibproxy;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

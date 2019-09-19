@@ -1,4 +1,4 @@
-package com.ByteDance.proxy;
+package com.ByteDance.proxy.bdproxy;
 
 import java.lang.reflect.Method;
 

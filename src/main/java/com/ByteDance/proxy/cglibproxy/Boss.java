@@ -1,4 +1,4 @@
-package com.ByteDance.cglibproxy;
+package com.ByteDance.proxy.cglibproxy;
 
 /**
  * @ClassName Boss

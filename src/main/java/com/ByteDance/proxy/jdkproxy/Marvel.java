@@ -1,4 +1,4 @@
-package com.ByteDance.jdkproxy;
+package com.ByteDance.proxy.jdkproxy;
 
 /**
  * @Description //TODO 漫威
